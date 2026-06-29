@@ -56,13 +56,14 @@
 ---
 
 ## 📜 Certifications
-
+- 🏅 **Microsoft Power BI Data Analyst Associate (PL-300)** — Microsoft (Jun 2026)
+- 🏅 **Microsoft Azure Fundamentals (AZ-900)** — Microsoft (May 2026)
 - 🏅 **Data Analytics Essentials** — Cisco Networking Academy (Dec 2025)
 - 🏅 **Introduction to Data Science** — Cisco Networking Academy (May 2025)
 - 🏅 **Data Visualisation & Business Insights** — Tata Group / Forage (Apr 2025)
 - 🏅 **Data Analytics Job Simulation** — Deloitte / Forage (Mar 2025)
-
 ---
+
 
 ## 🤝 Connect With Me
 
