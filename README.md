@@ -7,7 +7,7 @@
 ## 👨‍💼 About Me
 
 - 🏢 Currently working at **Tata Consultancy Services (TCS)** as a Data Analyst
-- 📊 3.8+ years of experience in **BFSI analytics** — data validation, reconciliation, and SQL-based reporting
+- 📊 4+ years of experience in **BFSI analytics** — data validation, reconciliation, and SQL-based reporting
 - 🌍 Worked on global projects for clients across **South Africa, Ireland, and Mexico**
 - 🏆 Recognised with **TCS Star of the Quarter Award** for outstanding performance
 - 🌱 Currently building skills in **Python (Pandas, NumPy)**
